@@ -87,7 +87,7 @@ const JobApply = () => {
               />
             </div>
             <div className="form-control mt-6">
-              <button className="btn btn-primary">Apply</button>
+              <button className="btn btn-neutral">Apply</button>
             </div>
           </form>
         </div>

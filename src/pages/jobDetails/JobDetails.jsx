@@ -10,7 +10,7 @@ const JobDetails = () => {
             <p>deadline: {applicationDeadline}</p>
 
            <Link to={`/jobApply/${_id}`}>
-           <button className="btn btn-primary">apply Now</button>
+           <button className="btn btn-neutral">apply Now</button>
            </Link>
         </div>
     );
